@@ -9,7 +9,7 @@
             </div>
             <div>
 
-                <a href="#"><i class="fa-solid fa-bullhorn fa-2x"></i><br> Terms &amp; Conditions</a>
+                <a href="terminos/index.html"><i class="fa-solid fa-bullhorn fa-2x"></i><br> Terms &amp; Conditions</a>
             </div>
         </div>
     </div>
